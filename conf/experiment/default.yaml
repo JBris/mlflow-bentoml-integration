@@ -1,0 +1,3 @@
+_target_: mlflow_bentoml.DataModels.ExperimentModel
+name: mlflow-bentoml
+tracking_uri: http://localhost:5000

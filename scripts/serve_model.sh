@@ -1,0 +1,1 @@
+bentoml serve mlflow_bentoml.2_service:svc
